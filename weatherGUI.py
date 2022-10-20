@@ -20,7 +20,7 @@ def time_format_for_location(utc_with_tz):
 city_value = StringVar()
  
 def showWeather():
-    api_key = "b05bd34a4f40ea8bd7871b9bc9721b32"  #API Key
+    api_key = "68583ac468a15c2214b022fbde82e997"  #API Key
  
     # Get the city name
     city_name=city_value.get()
